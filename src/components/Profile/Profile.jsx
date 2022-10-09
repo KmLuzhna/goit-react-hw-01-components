@@ -1,4 +1,4 @@
-import { Description, Label, Quantity, StatsElement, StatsList, UserAvatar, UserInfo, UserName, UserProfile } from "./style/Profile.styled"
+import { Description, Label, Quantity, StatsElement, StatsList, UserAvatar, UserInfo, UserName, UserProfile } from "./Profile.styled"
 
 import PropTypes from 'prop-types';
 
